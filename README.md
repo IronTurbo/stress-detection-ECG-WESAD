@@ -36,4 +36,4 @@ README.md            → Project overview and instructions
 
 ## 📄 References
 - [WESAD Dataset Paper](https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29)
-- Research Paper: “From lab to real-life: A three-stage validation of wearable technology for stress monitoring 2025” (https://doi.org/10.1016/j.mex.2025.103205)
+- Research Paper: [“From lab to real-life: A three-stage validation of wearable technology for stress monitoring 2025”](https://doi.org/10.1016/j.mex.2025.103205)
